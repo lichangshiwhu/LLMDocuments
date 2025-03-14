@@ -46,13 +46,13 @@
 追踪xxx,xxx,等最新研究方向
 
 ## 附录
-### 附录A GPT实现详解
+### 附录A GPT简介
 
 GPT-2模型架构数学表达
 
 损失函数设计与实现
 
-### 附录B DeepSeek-R1技术剖析
+### 附录B DeepSeek-R1简介
 
 DeepSeek模型架构数学表达
 
