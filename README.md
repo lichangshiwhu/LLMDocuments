@@ -4,12 +4,12 @@
 ### 第四章 数据准备
 涵盖数据采集、清洗、标注与预处理全流程方法论
 
-链接：
+链接：https://cn.overleaf.com/read/krmkywdcrwwr#2e7160
 
 ### 第五章 模型架构设计
 解析Transformer等主流架构的技术实现与优化策略
 
-链接：
+链接：https://cn.overleaf.com/read/bgvjfjyzktpz#891a0f
 
 ### 第六章 预训练技术
 深入探讨预训练目标函数、训练策略与收敛性优化
@@ -34,7 +34,7 @@
 ### 第九章 解码与部署
 对比贪婪搜索/束搜索等解码策略，提供工程化部署指南
 
-链接：
+链接：https://cn.overleaf.com/read/rmtyssjvrhxy#93013b
 
 ### 第十章 提示学习体系
 
@@ -44,12 +44,12 @@
 
 思维链（CoT）技术实现
 
-链接：
+链接：https://cn.overleaf.com/read/swsgqxjdvwvk#20c090
 
 ### 第十一章 规划与智能体
 探讨复杂任务分解与自主决策系统构建
 
-链接：
+链接：https://cn.overleaf.com/read/qfxxfnkggnbt#4b2b85
 
 ### 第十二章 主流模型解析
 横向对比GPT/PaLM/LLaMA等模型的架构创新与应用场景
@@ -59,7 +59,7 @@
 ### 第十三章 应用实践
 展示对话系统、内容生成等典型落地场景
 
-链接：
+链接：https://cn.overleaf.com/read/vgdzntyknmhf#71edbb
 
 ### 第十四章 前沿进展
 追踪xxx,xxx,等最新研究方向
