@@ -14,7 +14,7 @@
 ### 第六章 预训练技术
 深入探讨预训练目标函数、训练策略与收敛性优化
 
-链接：
+链接：https://www.overleaf.com/read/pjtxtxccczpf#546c53
 
 ### 第七章 指令微调
 
@@ -29,7 +29,7 @@
 ### 第八章 对齐与强化学习
 详解RLHF技术框架与人类价值观对齐方案
 
-链接：
+链接：https://www.overleaf.com/read/wskfbfgrffvz#44901b
 
 ### 第九章 解码与部署
 对比贪婪搜索/束搜索等解码策略，提供工程化部署指南
@@ -54,7 +54,7 @@
 ### 第十二章 主流模型解析
 横向对比GPT/PaLM/LLaMA等模型的架构创新与应用场景
 
-链接：
+链接：https://www.overleaf.com/read/nmpnhkryhwyy#b55868
 
 ### 第十三章 应用实践
 展示对话系统、内容生成等典型落地场景
